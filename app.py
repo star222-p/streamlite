@@ -46,7 +46,7 @@ def convert_pdf_to_structured_text(pdf_file):
 
 # Setting up OpenAI API key
 
-openai_api_key = st.config["sk-svcacct-DG74Wqqr-pPlmKCh89rnklPIhJEi0ZNmRlXjU2H5movzp41JJJesz3X4opMog8N3T3BlbkFJZ89FVWtadnHWqJNMYBQJAdlCb0ZEliE7OA3Nk-uc3650XrviaY5Z_nkkLmQxESEA"]
+openai_api_key = st.config["API-KEY"]
 
 
 # Initializing messages list
